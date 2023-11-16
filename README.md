@@ -20,6 +20,11 @@ The frontend is developed using a modern tech stack:
 
 Enjoy an intuitive and responsive user interface to interact with your microservices.
 
+## Database
+
+MySQL has been utilized as the database for this project. Separate databases have been created for each service to ensure efficient data management.
+
+
 ## Deployment
 
 We've leveraged the power of containerization and cloud services for a seamless deployment experience. The technologies used include:
