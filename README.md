@@ -2,6 +2,11 @@
 
 Welcome to the Micro-Services-Django-Flask-React project! This project revolves around creating microservices for a dynamic product store.
 
+
+## Architecture Overview
+
+![Micro-Services Architecture](archi.png)
+
 ## Overview
 
 The back-end is comprised of two essential services:
