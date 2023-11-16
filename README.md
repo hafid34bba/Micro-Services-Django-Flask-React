@@ -9,6 +9,15 @@ The back-end is comprised of two essential services:
 1. **Admin Service:** Manage your products effortlessly! Create, update, and delete products seamlessly.
 2. **Main Service:** Allow users to express their interest by liking their favorite products.
 
+## Communication Between Services
+
+For seamless communication between services, RabbitMQ has been integrated into the architecture. This ensures efficient message passing and coordination between the Admin and Main services.
+
+## Database
+
+MySQL has been utilized as the database for this project. Separate databases have been created for each service to ensure efficient data management.
+
+
 ## Frontend Technologies
 
 The frontend is developed using a modern tech stack:
@@ -20,9 +29,6 @@ The frontend is developed using a modern tech stack:
 
 Enjoy an intuitive and responsive user interface to interact with your microservices.
 
-## Database
-
-MySQL has been utilized as the database for this project. Separate databases have been created for each service to ensure efficient data management.
 
 
 ## Deployment
